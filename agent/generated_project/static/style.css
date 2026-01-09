@@ -1,0 +1,49 @@
+/* Add CSS styles here */
+
+/* Input fields */
+input[type="text"] {
+    width: 50%;
+    height: 30px;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Operation selection */
+select {
+    width: 50%;
+    height: 30px;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Button */
+button {
+    width: 50%;
+    height: 30px;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Display field */
+.display-field {
+    width: 50%;
+    height: 30px;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Import Calculator class and render_template function from Flask */
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+
+/* Import Calculator class and render_template function from Flask */
+/* Calculator class should import the render_template function from Flask */
+
+/* Add additional styles as needed */
