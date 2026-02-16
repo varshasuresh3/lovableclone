@@ -70,14 +70,7 @@ GROQ_API_KEY=your_api_key_here
 ▶️ Running the App
 Run Streamlit UI
 Bash
-Copy code
-streamlit run app.py
-Open:
-Copy code
 
-http://localhost:8501
-🧠 Example Prompt
-Copy code
 
 Create a simple calculator web application using Flask with HTML and CSS.
 The system will:
@@ -111,4 +104,5 @@ Add streaming agent responses
 🧑‍💻 Author
 Varsha Suresh
 AI & Full Stack Developer
+
 
